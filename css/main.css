@@ -99,13 +99,11 @@ textarea {
 html {
     background: url(../img/bkgd2.jpg) no-repeat center center fixed;
     background-size: cover;
-    height: 100%;
    /* set height to 100% - these are important for allowing content to vertically align */
 }
 
 body {
     /* set height to 100% - these are important for allowing content to vertically align */
-    height: 100%;
 }
 
 .wrapper {
@@ -113,9 +111,6 @@ body {
     margin: 0;
     height: 100%;
     width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 #content {
